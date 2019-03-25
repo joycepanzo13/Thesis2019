@@ -10,7 +10,7 @@
  */
 public class conn {
     
-    String sqlconnect= "jdbc:mysql://localhost/System?user=root&password=";
+    String sqlconnect= "jdbc:mysql://localhost/thesis?user=root&password=";
     
     
 }
